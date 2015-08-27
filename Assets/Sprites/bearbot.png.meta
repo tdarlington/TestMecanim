@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: ab718a10b5a674a61a70e9bd28eda89b
+timeCreated: 1440608049
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bearbot_0
+    21300002: bearbot_1
+    21300004: bearbot_2
+    21300006: bearbot_3
+    21300008: bearbot_4
+    21300010: bearbot_5
+    21300012: bearbot_6
+    21300014: bearbot_7
+    21300016: bearbot_8
+    21300018: bearbot_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bearbot_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 283
+        width: 56
+        height: 132
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 2, y: 0, z: 0, w: 1}
+    - name: bearbot_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 446
+        width: 203
+        height: 101
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bearbot_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 202
+        width: 118
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bearbot_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 46
+        width: 43
+        height: 151
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bearbot_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 36
+        width: 47
+        height: 157
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bearbot_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 302
+        width: 74
+        height: 121
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
